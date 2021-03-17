@@ -2,7 +2,7 @@
 
 ### A brief summary about me:
 
-- 🔭 I’m currently working at [Deal](https://www.deal.com.br/?lang=en) with **C#** (ASP .NET Core 3.x, EF Core, LINQ, ...), **React.js** (Chakra UI, Material UI) and SQL basically.
+- 🔭 I’m currently working at [BTG](https://www.btgpactual.com/) with **C#** (ASP .NET Core 3.x, EF Core, LINQ, ...), **Vue** (Ant design), **RabbitMQ**, and a few others basically.
 - 🌱 I’m currently learning [Deno](https://github.com/tiny-devs/tiny-dungeon-online) and mastering **C#** by daily experiences and by reading [C# in Depth](https://www.manning.com/books/c-sharp-in-depth-fourth-edition).
 - 👯 I’m looking to collaborate on any Open Source Project involving **game development** in general, **ASP .NET Core 3.x / Javascript / TypeScript**, or anything creative and fun in general.
 - 📫 How to reach me: [Email](mailto:diego.penha95@gmail.com) | [LinkedIn](https://www.linkedin.com/in/diego-penha-54a833148/) | [Codepen](https://codepen.io/diguifi) | [Facebook](https://www.facebook.com/diguifi) | [Kagle](https://www.kaggle.com/diguifi) | [itch.io](https://diguifi.itch.io/) | [Instagram](https://www.instagram.com/penhadiego/)
